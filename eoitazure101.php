@@ -4,6 +4,6 @@
  </head>
  <body>
  <?php echo '<p>Hello World, from Azure 101</p>'; ?>
- <p>This is v1.0</p>
+ <p>This is v2.0j during class.</p>
  </body>
 </html>
